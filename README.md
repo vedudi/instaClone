@@ -12,4 +12,4 @@
 
 Bu projeyi yaratırken çok eğlendim ve bu deneyimi paylaşmaktan mutluyum. Yeni projelerde görüşmek üzere! 👋
 
-<img src="instaclone.gif">
+<img src="instaclone.gif"/>
